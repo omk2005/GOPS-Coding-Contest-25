@@ -8,7 +8,7 @@ int playCard(int a[14], int b[14], int flippedCard, int currentPot)<br>
 &nbsp; currentPot: positive integer indicating the current total value of the pot (same as the previous argument unless the previous round was a tie)<br>
 
 Since it's easy to, let's test this on an online compiler (GDB)<br>
-Upload 4 files: main.cpp, DefaultStrategies.cpp, Player.cpp, Player.hpp<br>
+Upload everything from folder Game_Files: main.cpp, DefaultStrategies.cpp, Player.cpp, Player.hpp<br>
 In order to test your function, copy and paste it into DefaultStrategies<br>
 Then go to main (look at lines 29 and 30)<br>
 Change the argument of one of the two players to the name of your function, and run.<br>
